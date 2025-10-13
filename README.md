@@ -1,7 +1,7 @@
 # FAST-LIVO2
 
 ## FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/apprisi/FAST-LIVO2)
 ### 📢 News
 
 - 🔓 **2025-01-23**: Code released!  
